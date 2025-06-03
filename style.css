@@ -42,6 +42,16 @@ p {
     border-radius: 6px;
 }
 
+.book-page {
+    background-color: seashell;
+    padding: 2em;
+    border: 2.5px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+    max-width: 800px;
+    margin: 2em auto;
+}
+
 .nav-top, .nav-bottom {
     display: flex;
     justify-content: center;
